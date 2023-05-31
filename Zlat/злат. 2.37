@@ -1,5 +1,0 @@
-temp_fahrenheit = 450
-
-# Пересчет в градусы Цельсия
-temp_celsius = (temp_fahrenheit - 32) / 1.8
-print("Температура по шкале Цельсия: ", temp_celsius)
